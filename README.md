@@ -34,7 +34,7 @@ Welcome to the Mini Facebook project! This is a social media platform where user
 
 ### Installation
 <ol>
-  <li>Clone the repository: </li>
+  <li>Clone the repository: https://github.com/nikhilarokkam/Mini-Facebook</li>
   <li>Create a MySQL database. Import the provided SQL schema file into your database.</li>
   <li>Open the config.php file. Update database connection details.</li>
   <li>Start a local server (e.g., using XAMPP, WAMP, or your preferred server). Access the application in your web browser.</li>
