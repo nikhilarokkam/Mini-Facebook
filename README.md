@@ -10,7 +10,7 @@
 </ul>
 
 ### Project Description:
-Welcome to the Mini Facebook project! This is a social media platform where users can sign up, log in, post pictures, comment on posts, like posts of friends/followers, and explore a timeline of all user posts.
+This is a social media platform where users can sign up, log in, post pictures, comment on posts, like posts of friends/followers, and explore a timeline of all user posts.
 
 ### Key Features:
 <ol>
