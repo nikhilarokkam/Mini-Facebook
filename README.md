@@ -9,7 +9,6 @@
 
 
 
-
 ### Technologies Used:
 <ul>
   <li>HTML</li>
