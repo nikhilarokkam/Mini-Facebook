@@ -1,6 +1,5 @@
 ## Project Title: Mini Facebook 
 
-
 ### Technologies Used:
 <ul>
   <li>HTML</li>
